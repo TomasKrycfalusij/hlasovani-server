@@ -77,6 +77,9 @@ def voted(data):
 #list = [{"serial": "sériové číslo 1", "volba": 2},
 #        {"serial": "sériové číslo 2", "volba": 1},
 #        {"serial": "sériové číslo 1", "volba": 1},]
+#list = [{"serial": 454, "volba": 2},
+#        {"serial": "sériové číslo 2", "volba": 1},
+#        {"serial": "sériové číslo 1", "volba": 1},]
 #for vote in list:
 #    def on_every(value, index):
 #        return False
